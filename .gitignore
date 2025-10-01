@@ -1,0 +1,6 @@
+# JJ
+.jj/**
+
+# Zig
+.zig-cache/**
+.zig-out/**
