@@ -1,0 +1,9 @@
+Usage: pomodoro [options]
+
+Options:
+        -h, --help
+                 Print Help
+        -m, --min
+                  Define Minutes
+        -s, --sec
+                  Define Seconds
