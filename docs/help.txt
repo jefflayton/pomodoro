@@ -3,7 +3,11 @@ Usage: pomodoro [options]
 Options:
         -h, --help
                  Print Help
-        -m, --min
-                  Define Minutes
-        -s, --sec
-                  Define Seconds
+        --cli
+                  Run with CLI Interface
+        -w, --work
+                  Set Work Timer Duration
+        -s, --short-break
+                  Set Short Break Duration
+        -l, --long-break
+                  Set Long Break Duration
